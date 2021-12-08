@@ -1,0 +1,12 @@
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\bin\Debug\net5.0\TIMSDKShell.deps.json
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\bin\Debug\net5.0\TIMSDKShell.dll
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\bin\Debug\net5.0\ref\TIMSDKShell.dll
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\bin\Debug\net5.0\TIMSDKShell.pdb
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.csproj.AssemblyReference.cache
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.AssemblyInfoInputs.cache
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.AssemblyInfo.cs
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.csproj.CoreCompileInputs.cache
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.dll
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\ref\TIMSDKShell.dll
+C:\Users\mcc\Documents\GitHub\TIMSDKForCharp\TIMSDKForCharp\TIMSDKShell\obj\Debug\net5.0\TIMSDKShell.pdb

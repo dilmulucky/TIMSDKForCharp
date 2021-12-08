@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1680d0c-28a5-4448-b636-db9c66e3d390": {
+      "ProjectGuid": "d1680d0c-28a5-4448-b636-db9c66e3d390",
+      "DisplayName": "TIMSDKForCharp",
+      "ColorIndex": 0
+    },
+    "b7bc421a-4a6f-4e50-badf-9da430d2b024": {
+      "ProjectGuid": "b7bc421a-4a6f-4e50-badf-9da430d2b024",
+      "DisplayName": "TIMSDKShell",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
